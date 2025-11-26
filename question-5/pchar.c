@@ -221,6 +221,6 @@ module_init(pchar_init);
 module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Mansi Parsekar");
+MODULE_AUTHOR("Rutvik Kadam");
 MODULE_DESCRIPTION("If buﬀer is empty, block the reader process until some data is written into the buﬀer");
 

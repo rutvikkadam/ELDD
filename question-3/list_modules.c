@@ -5,7 +5,7 @@
 
 // This is necessary to access internal kernel symbols like the modules list head
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Rutvik Kadam");
 MODULE_DESCRIPTION("A kernel module to list all loaded modules.");
 
 

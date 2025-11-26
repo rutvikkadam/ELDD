@@ -5,7 +5,7 @@
 #include <linux/sched/signal.h> // Required for for_each_process, if needed, but here we use hierarchy
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Rutvik Kadam");
 MODULE_DESCRIPTION("A kernel module to list processes in the hierarchy from the current process.");
 
 

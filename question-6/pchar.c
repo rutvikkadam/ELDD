@@ -113,6 +113,6 @@ module_init(pchar_init);
 module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Mansi Parsekar");
+MODULE_AUTHOR("Rutvik Kadam");
 MODULE_DESCRIPTION("single-process open with blocking");
 
